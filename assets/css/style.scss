@@ -2,18 +2,20 @@
 ---
 @import "{{ site.theme }}";
 
-// サイドバーの画像を丸く、小さめにする
+// サイドバーの画像を丸く、サイズ調整
 header img {
   border-radius: 50%;
-  width: 120px;   // ここでサイズを調整できます
+  width: 120px;
   height: 120px;
   object-fit: cover;
 }
-// サイドバーの「maintained by...」などの文字をまとめて隠す
+
+// サイドバーの不要なボタンやテキストを隠す
 header p.view, header ul {
   display: none;
 }
-// 名前（title）を改行させる
-header h1 {
-  white-space: pre-line; // スペースや改行を反映させる設定
+
+// 名前(h1)と説明文(p)の両方で改行(\n や <br>)を有効にする
+header h1, header p {
+  white-space: pre-line;
 }
