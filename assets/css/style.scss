@@ -9,3 +9,7 @@ header img {
   height: 120px;
   object-fit: cover;
 }
+// サイドバーの「maintained by...」などの文字をまとめて隠す
+header p.view, header ul {
+  display: none;
+}
