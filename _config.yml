@@ -1,24 +1,17 @@
 theme: jekyll-theme-minimal
 title: "Hiroko<br>Shinnaga"
-description: "Ph.D. in Science<br>Radio Astronomy"
-# 以下の1行を追加（画像ファイル名を指定）
-logo: "/avatar.png"
-新永　浩子
-鹿児島大学 学術研究院理工学域理学系 物理・宇宙プログラム
-https://grad.eng.kagoshima-u.ac.jp/
-鹿児島大学大学院 理工学研究科　天の川銀河研究センター
-http://agarc.sci.kagoshima-u.ac.jp/
-鹿児島大学理学部理学科　 物理・宇宙プログラム
-https://sci-kagoshima-univ.jp
-〒890-0065 鹿児島市郡元 1-21-35
-電話 099-285-8960 Fax 099-285-8088
+description: |
+  Ph.D. in Science<br>Radio Astronomy
+  
+  新永 浩子
+  鹿児島大学 学術研究院理工学域理学系 物理・宇宙プログラム
+  〒890-0065 鹿児島市郡元 1-21-35
+  電話 099-285-8960 Fax 099-285-8088
 
-Hiroko Shinnaga
-Department of Physics and Astronomy
-Graduate School of Science and Engineering
-Kagoshima University
-Amanogawa Galaxy Astronomy Research Center (AGARC)
-1-21-35 Korimoto, Kagoshima 890-0065 JAPAN
-voice: +81-99-285-8960 FAX: +81-99-285-8088
-http://agarc.sci.kagoshima-u.ac.jp/~shinnaga/
+  Hiroko Shinnaga
+  Department of Physics and Astronomy
+  Kagoshima University
+  1-21-35 Korimoto, Kagoshima 890-0065 JAPAN
+
+logo: "/avatar.png"
 show_downloads: false
