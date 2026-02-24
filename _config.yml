@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Hiroko Shinnaga"
-description: "Assistant Professor at Kagoshima University"
+description: "Ph.D. in Science / Radio Astronomy"
+# 以下の1行を追加（画像ファイル名を指定）
+logo: "/avatar.png"
