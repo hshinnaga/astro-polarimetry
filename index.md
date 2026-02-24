@@ -12,7 +12,8 @@ title: Home
 I am an associate professor of the Astrophysics Group of Kagoshima University, located on the Kyushu island of Japan. 
 
 [Profile(Kagoshima University)](https://ris.kuas.kagoshima-u.ac.jp/html/100005892_en.html)
-[Profile(Faculty of Science)](https://agarc.sci.kagoshima-u.ac.jp/~shinnaga/index-k.html)
+[プロフィール（鹿児島大学理学部)](https://agarc.sci.kagoshima-u.ac.jp/~shinnaga/index-k.html)
+[プロフィール(researchmap)](https://researchmap.jp/shinnaga)
 
 Before joining the Astrophysics Group of Kagoshima University, I worked at the East Asian ALMA Regional Center (EA ARC), Nobeyama Radio Observatory, the Subaru Telescope, and at California Institute of Technology Submillimeter Observatory as a staff research scientist. I was also an affiliated faculty of University of Hawaii at Hilo.  The ALMA antennas are located at Atacama Desert in Chile.
 
@@ -26,6 +27,8 @@ Before joining the Astrophysics Group of Kagoshima University, I worked at the E
 **[KAGOSHIMA UNIVERSITY](https://www.kagoshima-u.ac.jp/en/)**
 
 **[Amanogawa Galaxy Astronomy Research Center(the Astrophysics Group of Kagoshima University)](https://agarc.sci.kagoshima-u.ac.jp)** 
+
+[Linkedin](https://www.linkedin.com/in/hiroko-shinnaga-9873bb4b/)
 
 ### Contact Information
 * **Phone:** +81-99-285-8960 (direct)
