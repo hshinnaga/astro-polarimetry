@@ -3,3 +3,4 @@ title: "Hiroko Shinnaga"
 description: "Ph.D. in Science / Radio Astronomy"
 # 以下の1行を追加（画像ファイル名を指定）
 logo: "/avatar.png"
+show_downloads: false
