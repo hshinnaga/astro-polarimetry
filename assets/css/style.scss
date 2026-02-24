@@ -42,3 +42,14 @@ header p.view, header ul {
   display: none !important;
 }
 
+// コピーライトを表示するための設定
+header::after {
+  content: "{{ site.copyright }}";
+  display: block;
+  font-size: 0.8em;      // 少し小さめの文字に
+  color: #666;          // 少し薄めの色に
+  margin-top: 30px;     // 住所との間に広めの余白を作る
+  border-top: 1px solid #ddd; // 上に細い線を入れて区切る
+  padding-top: 10px;
+}
+
