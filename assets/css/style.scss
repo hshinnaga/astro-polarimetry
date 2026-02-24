@@ -13,3 +13,7 @@ header img {
 header p.view, header ul {
   display: none;
 }
+// 名前（title）を改行させる
+header h1 {
+  white-space: pre-line; // スペースや改行を反映させる設定
+}
