@@ -19,4 +19,8 @@ Kagoshima University provides a rich environment for astronomical research. If y
 ## How to Apply
 If you are interested in Master's or Ph.D. programs, please contact me via email with your CV and a brief description of your research interests.
 
-[Contact Information is on the Home page](https://hshinnaga.github.io/astro-polarimetry/index.html)
+## Contact
+If you are interested in joining our group, please contact me at:
+**shinnaga [at] sci.kagoshima-u.ac.jp**
+(Please replace "[at]" with "@")
+
