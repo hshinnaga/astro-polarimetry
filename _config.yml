@@ -1,6 +1,13 @@
 theme: jekyll-theme-minimal
 title: "Hiroko<br>Shinnaga"
-description: "Ph.D. in Science<br>Radio Astronomy"
+description: |
+Ph.D. in Science
+Radio Astronomy
+
+〒890-0065
+  鹿児島市郡元1-21-35
+  鹿児島大学 理学部 理学科　
+  物理・宇宙プログラム
 # 以下の1行を追加（画像ファイル名を指定）
 logo: "/avatar.png"
 show_downloads: false
