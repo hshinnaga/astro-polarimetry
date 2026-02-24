@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.html) | [Research](research.html) | [Friends of Astronomy](friends.html) | [STEM Diversity](diversity.html)
-
+[Home](index.html) | [Research](research.html) | [Join the Group](join.html) | [Friends of Astronomy](friends.html) | [STEM Diversity](diversity.html)
 ---
 
 # Profile
