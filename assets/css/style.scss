@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+// サイドバーの画像を丸く、小さめにする
+header img {
+  border-radius: 50%;
+  width: 120px;   // ここでサイズを調整できます
+  height: 120px;
+  object-fit: cover;
+}
