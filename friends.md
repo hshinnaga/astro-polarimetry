@@ -30,8 +30,8 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 昨年11月のオープンキャンパスで、私たちの活動を紹介するために作成したポスターです。
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/20251115_scienceclub.jpg" alt="Open Campus Poster" style="width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>2025年オープンキャンパスで使用したオリジナルポスター</em></p>
+  <img src="./20251115_scienceclub.jpg" alt="Open Campus Poster" style="width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>2025年オープンキャンパスで使用したオリジナルポスター(三浦さん作)</em></p>
 </div>
 
 昨年のオープンキャンパスでは、多くの方にブースへお越しいただき、宇宙の広がりについて語り合うことができました。この熱意を、今後の観望会へとつなげていきます。
