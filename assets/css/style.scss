@@ -2,20 +2,43 @@
 ---
 @import "{{ site.theme }}";
 
-// サイドバーの画像を丸く、サイズ調整
+// 1. サイドバー全体の高さを「内容に合わせて広がる」ように修正
+header {
+  position: relative; // 位置を固定せず、内容に追従させる
+  width: 210px;       // 幅を少し固定して安定させる
+  float: left;
+  padding-bottom: 20px;
+}
+
+// 2. メインコンテンツとの重なりを防ぐ
+section {
+  width: calc(100% - 260px); 
+  float: right;
+}
+
+// 3. 画像を丸くし、下の文字との間に余白を作る
 header img {
   border-radius: 50%;
   width: 120px;
   height: 120px;
   object-fit: cover;
+  margin-bottom: 15px; // 画像の下に隙間を作る
 }
 
-// サイドバーの不要なボタンやテキストを隠す
-header p.view, header ul {
-  display: none;
-}
-
-// 名前(h1)と説明文(p)の両方で改行(\n や <br>)を有効にする
+// 4. 名前(h1)と説明文(p)の改行を有効にし、重なりを防ぐ
 header h1, header p {
   white-space: pre-line;
+  word-wrap: break-word; // 長い単語がはみ出さないように
+  margin-bottom: 10px;   // 各段落の間に隙間を作る
 }
+
+// 5. 邪魔な「maintained by...」を完全に消し去る
+// (これがあるから、住所と重なって見えてしまいます)
+footer {
+  display: none !important;
+}
+
+header p.view, header ul {
+  display: none !important;
+}
+
