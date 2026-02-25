@@ -32,6 +32,5 @@ If you are interested in joining our group, please contact me at:
 
 [多波長で見る宇宙:国立天文台(NAOJ)](https://www.youtube.com/watch?v=2o9mxSTyNHE)
 
-[A movie filmed for the IYA 400 years of telescope]
-(https://www.astronomy2009.org/globalprojects/specialprojects/400yearsofthetelescope/index.html)
+[A movie filmed for the IYA 400 years of telescope](https://www.astronomy2009.org/globalprojects/specialprojects/400yearsofthetelescope/index.html)
 
