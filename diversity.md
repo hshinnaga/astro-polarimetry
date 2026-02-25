@@ -2,9 +2,8 @@
 layout: default
 title: Outreach
 ---
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="/astro-polarimetry/favicon.ico">
-</head>
+
+<link rel="shortcut icon" type="image/x-icon" href="/astro-polarimetry/favicon.ico">
 ---
 
 ### Outreach and Community Engagement
