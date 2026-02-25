@@ -5,6 +5,13 @@ title: STEM Diversity
 
 ---
 
+# STEM & Diversity
+
+### Outreach and Community Engagement
+天の川銀河研究センターの一員として、AGARCニュースに時折寄稿しています。ご覧ください。
+
+[Read the latest AGARC Newsletter](https://agarc.sci.kagoshima-u.ac.jp/ja/news-letters/)
+
 # STEM Diversity & Inclusion
 
 I am committed to promoting diversity in Science, Technology, Engineering, and Mathematics (STEM). Through symposiums and forums, we aim to create an inclusive environment for all researchers and students.
@@ -16,7 +23,7 @@ We recently hosted/participated in an academic forum focused on future perspecti
 
 ### 🎥 Forum Video
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ここにYouTubeの動画ID" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Academic Forum Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/ここにYouTubeの動画ID" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="（動画準備完了次第見られます）Academic Forum Video"></iframe>
 </div>
 
 * **Official Website:** [Academic Forum 2026 Details](https://www.scj.go.jp/ja/event/2026/392-s-0221.html)
