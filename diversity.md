@@ -5,10 +5,14 @@ title: Outreach
 
 ---
 
-### Outreach and Community Engagement
+# Outreach and Community Engagement
 天の川銀河研究センターの一員として、AGARCニュースに時折寄稿しています。ご覧ください。
 
 [Read the latest AGARC Newsletter](https://agarc.sci.kagoshima-u.ac.jp/ja/news-letters/)
+2025.10.29　天の川センターニュース　No.9 <br>
+ - [研究ハイライト:宇宙の超巨星が放つ謎に包まれたメーザー源～ 一酸化ケイ素 v ＝０輝線史上初の検出成功 ～](https://agarc.sci.kagoshima-u.ac.jp/wordpress/wp-content/uploads/2025/10/041595dbc7aeb75706b2b220e14420ad.pdf)<br>
+ - [研究活動報告:Rubinʼs First Look Watch Party at SLAC/KIPAC at Stanford University https://rubinobservatory.org](https://agarc.sci.kagoshima-u.ac.jp/wordpress/wp-content/uploads/2025/10/67fca46bdc72ac4f06b49d0f9619fefe.pdf)<br>
+ 
 
 # STEM Diversity & Inclusion
 
