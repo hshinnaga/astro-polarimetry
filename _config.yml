@@ -1,17 +1,16 @@
 theme: jekyll-theme-minimal
 title: "Hiroko<br>Shinnaga"
-description: |
-  Ph.D. in Science<br>Conduct Milkyway Galaxy Inspired Researches
-  
-  新永 浩子
-  鹿児島大学 学術研究院理工学域理学系 物理・宇宙プログラム
-  〒890-0065 鹿児島市郡元 1-21-35
 
-  Hiroko Shinnaga
-  Department of Physics and Astronomy
-  Kagoshima University
+description: >
+  Ph.D. in Science<br>
+  Conduct Milky Way Galaxy Inspired Researches<br><br>
+  新永 浩子<br>
+  鹿児島大学 学術研究院理工学域理学系 物理・宇宙プログラム<br>
+  〒890-0065 鹿児島市郡元 1-21-35<br><br>
+  Hiroko Shinnaga<br>
+  Department of Physics and Astronomy, Kagoshima University<br>
   1-21-35 Korimoto, Kagoshima 890-0065 JAPAN
 
 logo: "/avatar.png"
 show_downloads: false
-copyright: "© 鹿児島大学学術研究院理工学研究科理学系　新永浩子 2026 Hiroko Shinnaga"　
+copyright: "© 2026 Hiroko Shinnaga"
