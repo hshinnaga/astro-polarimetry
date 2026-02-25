@@ -18,7 +18,7 @@ Stars are born in dense molecular clouds, and magnetic fields play a crucial rol
   <img src="./assets/images/20230208_L1521F.jpg" alt="Magnetic Field Simulation" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 1: Visualization of magnetic field structure in a massive star-forming region.</em></p>
 </div>
-*Figure 1: Visualization of magnetic field structure in a massive star-forming region. (Fukaya, Shinnaga et al. 2023) *
+*Figure 1: Visualization of magnetic field structure in a low-mass star-forming dense core. (Fukaya, Shinnaga et al. 2023) *
 
 * **Key Finding:** Our observations revealed that magnetic fields are surprisingly well-ordered even in turbulent environments.
 * **Telescopes Used:** ALMA, JCMT (SCUBA-2/POL-2).
