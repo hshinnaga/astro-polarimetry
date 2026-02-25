@@ -8,7 +8,7 @@ title: Home
 
 # Profile
 
-I am an associate professor of the Astrophysics Group of Kagoshima University, located on the Kyushu island of Japan. 
+I am an associate professor of the Astrophysics Group of Kagoshima University, located on the most southern part of the Kyushu island of Japan. 
 
 [Profile(Kagoshima University)](https://ris.kuas.kagoshima-u.ac.jp/html/100005892_en.html)
 [プロフィール（鹿児島大学理学部)](https://agarc.sci.kagoshima-u.ac.jp/~shinnaga/index-k.html)
