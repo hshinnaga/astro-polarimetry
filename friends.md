@@ -56,16 +56,19 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 ### 寄附の手続き方法
 鹿児島大学の規定により、以下の手順での受付となります。
 
-1.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式等）をダウンロードし、必要事項をご記入ください。
-    * [👉 寄附金申込書のダウンロード（大学公式サイト等へリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)
-    * ※「受入教員」の欄には **新永 浩子** とご記入ください。
-2.  **書類の提出:** ご記入いただいた書類を、下記のお問い合わせ先（または大学事務局）へ郵送またはメールにてお送りください。
-3.  **お振り込み:** 大学より発行される振込依頼書に基づき、金融機関にてお手続きをお願いいたします。
+1.  **詳細の確認**
+　  * [👉 寄附金に関するご案内（大学公式サイト等へリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
+2.　**寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式等）をダウンロードし、必要事項をご記入ください。<br>
+   <a href="202203kifu_KagoshimaUniv_Shinnaga.docx" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">📥 寄附金申込書をダウンロード</a><nr>
+3.  **書類の提出:** ご記入いただいた書類を、下記のお問い合わせ先（または大学事務局）へ郵送またはメールにてお送りください。<br>
+   理学部　理工学研究科（理学系）　理工学研究科等事務部　理学系事務課会計係　電話：099-285-8020　scikaik[at] <br>
+　（※メールアドレスは、[at]を「@kuas.kagoshima-u.ac.jp」に変換してください。）<br>
+5.  **お振り込み:** 大学より発行される振込依頼書に基づき、金融機関にてお手続きをお願いいたします。
 
 ### お問い合わせ先
 寄附に関するご質問や、具体的な活用方法についてのご相談は、お気軽に下記までご連絡ください。
 
-* **Email:** shinnaga [at] sci.kagoshima-u.ac.jp
+* **Email:** shinnaga [at] sci.kagoshima-u.ac.jp ([at]を＠に置き換えてください。)
 * **税制上の優遇措置:** 国立大学法人への寄附は、所得税や法人税の控除対象となります。詳細は大学の[寄附金案内ページ](https://www.kagoshima-u.ac.jp/about/zeisei.html)をご確認ください。
 
 ---
