@@ -14,7 +14,10 @@ We explore the mysteries of the Universe, focusing on star formation and evoluti
 ## 1. Magnetic Fields in Star Forming Regions
 Stars are born in dense molecular clouds, and magnetic fields play a crucial role in their evolution. Using **astronomical polarimetry**, we visualize the "invisible" magnetic field lines.
 
-![Magnetic Field Simulation](https://via.placeholder.com/600x300.png?text=Image+of+Magnetic+Field+Lines)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./assets/images/20230208_L1521F.jpg" alt="Magnetic Field Simulation" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 1: Visualization of magnetic field structure in a massive star-forming region.</em></p>
+</div>
 *Figure 1: Visualization of magnetic field structure in a massive star-forming region.*
 
 * **Key Finding:** Our observations revealed that magnetic fields are surprisingly well-ordered even in turbulent environments.
