@@ -30,6 +30,8 @@ If you are interested in joining our group, please contact me at:
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん記者会見（Webページ）](https://grad.eng.kagoshima-u.ac.jp/info/20230214topic/)<br>
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん(記者会見の様子)](https://www.youtube.com/watch?v=T2eFWrIJ4nk))
 
+[【研究成果】巨大星の最期・超新星爆発直前にとらえた強力な磁場(記者会見Webページ)](https://www.kagoshima-u.ac.jp/topics/2018/04/post-1377.html)
+
 [多波長で見る宇宙:国立天文台(NAOJ)](https://www.youtube.com/watch?v=2o9mxSTyNHE)
 
 [A movie filmed for the IYA 400 years of telescope](https://www.astronomy2009.org/globalprojects/specialprojects/400yearsofthetelescope/index.html)
