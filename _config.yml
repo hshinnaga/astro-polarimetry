@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Hiroko<br>Shinnaga"
-
 description: >
   Ph.D. in Science<br>
   Conduct Milky Way Galaxy Inspired Researches<br><br>
@@ -9,7 +8,6 @@ description: >
   〒890-0065 鹿児島市郡元 1-21-35<br>
   Department of Physics and Astronomy, Kagoshima University<br>
   1-21-35 Korimoto, Kagoshima 890-0065 JAPAN
-
 logo: "/avatar.png"
 show_downloads: false
 copyright: "© 2026 Hiroko Shinnaga All Rights Reserved."
