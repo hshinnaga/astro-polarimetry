@@ -11,32 +11,45 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
     <style>
-      /* スマホで左に寄る問題を解決する追加設定 */
+      /* --- パソコン・スマホ共通の基本調整 --- */
       .wrapper {
-        width: 100%;
         max-width: 900px;
         margin: 0 auto;
-        padding: 20px;
-        box-sizing: border-box;
       }
-      section {
-        width: 100% !important;
-        float: none !important;
+      
+      /* --- スマホ表示 (画面幅が低い時) のための設定 --- */
+      @media screen and (max-width: 640px) {
+        header, section {
+          float: none !important;
+          width: 100% !important;
+          margin: 0 !important;
+          padding: 10px !important;
+        }
+        .wrapper {
+          padding: 15px;
+        }
+        nav ul {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 10px;
+          padding: 0;
+          list-style: none;
+        }
       }
-      header {
-        width: 100% !important;
-        float: none !important;
-        position: relative !important;
+
+      /* --- パソコン表示でのナビゲーション調整 --- */
+      @media screen and (min-width: 641px) {
+        nav {
+          margin-top: 20px;
+        }
+        nav ul {
+          list-style: none;
+          padding: 0;
+        }
+        nav li {
+          margin-bottom: 8px;
+        }
       }
-      /* スマホでナビゲーションがHomeに戻るのを防ぐための調整 */
-      nav ul {
-        padding: 0;
-        list-style: none;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-      }
-      nav li { margin: 0; }
     </style>
     
     {% include head-custom.html %}
@@ -44,11 +57,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: "Hiroko Shinnaga" }}</a></h1>
-        
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
         <nav>
           {% include nav.html %}
         </nav>
+
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Logo" style="margin-top: 20px;"/>
+        {% endif %}
 
         {% if site.description %}
           <p>{{ site.description }}</p>
