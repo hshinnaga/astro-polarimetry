@@ -2,9 +2,7 @@
 layout: default
 title: Join the Group
 ---
-[Home](index.html) | [Research](research.html) | [Join the Group](join.html) | [Friends of Astronomy](friends.html) | [STEM Diversity](diversity.html)
-
----
+--
 
 # Join Our Research Group
 
