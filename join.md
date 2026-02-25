@@ -28,7 +28,7 @@ If you are interested in joining our group, please contact me at:
 
 ## Media Coverages
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん記者会見（Webページ）](https://grad.eng.kagoshima-u.ac.jp/info/20230214topic/)<br>
-[鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん記者会見の様子](https://www.youtube.com/watch?v=T2eFWrIJ4nk))
+[鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん(記者会見の様子)](https://www.youtube.com/watch?v=T2eFWrIJ4nk))
 
 [多波長で見る宇宙:国立天文台(NAOJ)](https://www.youtube.com/watch?v=2o9mxSTyNHE)
 
