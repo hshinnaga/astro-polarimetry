@@ -26,8 +26,8 @@ We recently hosted/participated in an academic forum focused on future perspecti
 
 ---
 
-## 2. Symposium on Quantumn Mechanics (November 2025)
-In November 2025, we held a symposium to discuss STEM diversity and its impact on astronomical research.
+## 2. Symposium on the Centenary of Quantum Mechanics (November 2025)
+In November 2025, I participated in the above symposium as a commentator, contributing to a discussion on STEM diversity and its impact on STEM researches.
 
 * **Symposium Website:** [量子が世界を変える 科学の100年と未来への挑戦](https://www.scj.go.jp/ja/event/2025/386-s-1115.html)
 * **Key Topics:** Inclusive research environments, supporting underrepresented groups in astronomy, and mentorship.
@@ -36,7 +36,7 @@ In November 2025, we held a symposium to discuss STEM diversity and its impact o
 
 ## 3. Outreach & Future Activities
 We believe that diversity drives innovation. Our group actively participates in:
-* Supporting women and underrepresented minorities in physics and astronomy.
-* Organizing workshops for the next generation of scientists.
+* Supporting women and underrepresented minorities in physics and astronomy and STEM fields.
+* Promoting workshops for the next generation of scientists.
 
 ---
