@@ -28,7 +28,7 @@ We recently hosted/participated in an academic forum focused on future perspecti
 In November 2025, I participated in the above symposium as a commentator, contributing to a discussion on STEM diversity and its impact on STEM researches.
 
 * **Symposium Website:** [量子が世界を変える 科学の100年と未来への挑戦](https://www.scj.go.jp/ja/event/2025/386-s-1115.html)
-* **Key Topics:** Inclusive research environments, supporting underrepresented groups in astronomy, and mentorship.
+* **Key Topics:** Presenting a short talk as the Chair of the Physics Education Subcommittee of the Physics Committee of Science Council of Japan, emphasizing girls can make big differences in STEM field.
 
 ---
 
