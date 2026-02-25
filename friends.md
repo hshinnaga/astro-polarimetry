@@ -57,7 +57,7 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 鹿児島大学の規定により、以下の手順での受付となります。
 
 1.  **詳細の確認**
-   * [👉 寄附金に関するご案内（大学公式サイト等へリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
+   * [👉 寄附金に関するご案内（大学公式サイトへリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
 2.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式等）をダウンロードし、必要事項をご記入ください。<br>
    <a href="202203kifu_KagoshimaUniv_Shinnaga.docx" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">📥 寄附金申込書をダウンロード</a><nr>
 3. **書類の提出:** ご記入いただいた書類を、下記のお問い合わせ先（または大学事務局）へ郵送またはメールにてお送りください。<br>
