@@ -11,44 +11,65 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
     <style>
-      /* --- パソコン・スマホ共通の基本調整 --- */
+      /* --- 全体レイアウトの強制リセット --- */
       .wrapper {
         max-width: 900px;
         margin: 0 auto;
-      }
-      
-      /* --- スマホ表示 (画面幅が低い時) のための設定 --- */
-      @media screen and (max-width: 640px) {
-        header, section {
-          float: none !important;
-          width: 100% !important;
-          margin: 0 !important;
-          padding: 10px !important;
-        }
-        .wrapper {
-          padding: 15px;
-        }
-        nav ul {
-          display: flex;
-          flex-wrap: wrap;
-          gap: 10px;
-          padding: 0;
-          list-style: none;
-        }
+        padding: 20px;
       }
 
-      /* --- パソコン表示でのナビゲーション調整 --- */
-      @media screen and (min-width: 641px) {
-        nav {
-          margin-top: 20px;
-        }
-        nav ul {
-          list-style: none;
-          padding: 0;
-        }
-        nav li {
-          margin-bottom: 8px;
-        }
+      /* パソコンでもサイドバーにせず、すべて上に配置する設定 */
+      header {
+        width: 100% !important;
+        float: none !important;
+        position: relative !important;
+        border-bottom: 1px solid #eee;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+      }
+
+      section {
+        width: 100% !important;
+        float: none !important;
+        margin: 0 !important;
+      }
+
+      /* ナビゲーションを横並びの「タブ」にする */
+      nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        padding: 0;
+        margin: 20px 0 10px 0;
+        gap: 20px; /* タブ同士の間隔 */
+      }
+
+      nav li {
+        margin: 0;
+        font-weight: bold;
+      }
+
+      nav a {
+        text-decoration: none;
+        color: #1270b0; /* リンクの色（お好みで調整してください） */
+      }
+
+      nav a:hover {
+        text-decoration: underline;
+      }
+
+      footer {
+        width: 100% !important;
+        float: none !important;
+        margin-top: 50px;
+        border-top: 1px solid #eee;
+      }
+
+      /* スマホ用の微調整 */
+      @media screen and (max-width: 640px) {
+        .wrapper { padding: 15px; }
+        nav ul { gap: 10px; }
+        nav li { font-size: 0.9em; }
       }
     </style>
     
@@ -63,12 +84,8 @@
           {% include nav.html %}
         </nav>
 
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" style="margin-top: 20px;"/>
-        {% endif %}
-
         {% if site.description %}
-          <p>{{ site.description }}</p>
+          <p style="margin-top: 10px; color: #666;">{{ site.description }}</p>
         {% endif %}
       </header>
 
