@@ -26,6 +26,8 @@ If you are interested in joining our group, please contact me at:
 ## Past Reserch Projects 
 [Master thesis projects](https://research.eng.kagoshima-u.ac.jp/professor.php?pid=106)
 
+[研究室訪問:宇宙電波懇談会ニュース No.120　2023. 01.06](https://udencon.sakura.ne.jp/news/news120.pdf)
+
 ## Media Coverages
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん記者会見（Webページ）](https://grad.eng.kagoshima-u.ac.jp/info/20230214topic/)<br>
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん(記者会見の様子)](https://www.youtube.com/watch?v=T2eFWrIJ4nk))
