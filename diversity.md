@@ -3,8 +3,6 @@ layout: default
 title: STEM Diversity
 ---
 
-[Home](index.html) | [Research](research.html) | [Join the Group](join.html) | [Friends of Astronomy](friends.html) | [STEM Diversity](diversity.html)
-
 ---
 
 # STEM Diversity & Inclusion
