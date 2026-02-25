@@ -1,11 +1,9 @@
 ---
 layout: default
-title: STEM Diversity
+title: Outreach
 ---
 
 ---
-
-# STEM & Diversity
 
 ### Outreach and Community Engagement
 天の川銀河研究センターの一員として、AGARCニュースに時折寄稿しています。ご覧ください。
