@@ -21,7 +21,7 @@ Stars are born in dense molecular clouds, and magnetic fields play a crucial rol
 *Figure 1: Visualization of magnetic field structure in a massive star-forming region. (Fukaya, Shinnaga et al. 2023) *
 
 * **Key Finding:** Our observations revealed that magnetic fields are surprisingly well-ordered even in turbulent environments.
-* **Telescopes Used:** ALMA, JCMT (POL-2).
+* **Telescopes Used:** ALMA, JCMT (SCUBA-2/POL-2).
 
 ---
 
@@ -41,21 +41,13 @@ The Atacama Large Millimeter/submillimeter Array (ALMA) allows us to zoom in on 
 ---
 
 ## 3. Roles of Magnetic Field of mass accretion onto the Super Massive Black Hole (Sgr A*) at the heart of our Milkyway Galaxy
-Using JCMT SCUBA-2/POL-2 submillimeter polarization techniques, we measure the 3D structure of the Circumnuclear Disk (CND) of surrounding Sgr A* by comparing with a self-similar accregion disk model.
+Using JCMT SCUBA-2/POL-2 submillimeter polarization technique, we measure the 3D structure of the Circumnuclear Disk (CND) of surrounding Sgr A* by comparing with a self-similar accregion disk model.
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./assets/images/2025SatoK_CND.jpg" alt="Magnetic Field in CND" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 3: Left: Magnetic field strengths measured in 3D in the Circumnuclear Disk (CND) based on a self-similar accretion disk model. Right: Measured polarization vectors towards the CND of our Milkyway Galaxy's SMBH Sgr A* (Sato, Shinnaga, Furuya et al. 2025) </em></p>
 </div>
-  <div>
-    <strong>Dynamics of Protostellar Disks</strong><br>
-    We study the gas dynamics and dust distribution around young stars to understand how planetary systems (like our Solar System) are formed.
-  </div>
-</div>
 
-
-* **Mission:** To create a 3D map of the Milky Way.
-* **Focus:** Exploring the high-mass star-forming regions in the spiral arms.
 
 ---
 
