@@ -32,7 +32,6 @@ The Atacama Large Millimeter/submillimeter Array (ALMA) allows us to zoom in on 
   <img src="./assets/images/2025Autumn_hyousi_VYCMa.tiff" alt="VYCMa enhanced image" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 2: An image of a dying massive (25 Msun) star, VYCMa, with prominent mass loss activities traced using various  molecular Maser lines. (Shinnaga et al. 2025) </em></p>
 </div>
-</div>
 
 ---
 
