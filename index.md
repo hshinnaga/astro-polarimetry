@@ -49,7 +49,7 @@ My latest publications can be found on my **researchmap** profile:
 鹿児島大学 郡元キャンパス（理学部）へのアクセスについては、以下の公式サイトをご確認ください。
 
 * [鹿児島大学 交通アクセス](https://www.kagoshima-u.ac.jp/about/access.html)
-* [天の川銀河センター アクセスマップ](https://sites.google.com/view/milkywayworkshop2025/venue)
+* [天の川銀河研究センター アクセスマップ](https://sites.google.com/view/milkywayworkshop2025/venue)
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./assets/images/ic1396.jpg" alt="Universe" style="width: 80%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
