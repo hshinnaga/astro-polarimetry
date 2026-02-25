@@ -25,7 +25,7 @@ Stars are born in dense molecular clouds, and magnetic fields play a crucial rol
 
 ---
 
-## 2. Magnetic Field in Evolved Stars and their Circumstellar Medium -- High-Resolution Observations with ALMA, VLA, VERA
+## 2. Magnetic Fields in Evolved Stars and their Circumstellar Medium -- High-Resolution Observations with ALMA, VLA, VERA
 The Atacama Large Millimeter/submillimeter Array (ALMA), the Very Large Array (VLA), and the VLBI Exploration of Radio Astrometry　(VERA) allows us to zoom in on the very heart of stars that are just before supernova explosions.
 
 <div style="text-align: center; margin: 20px 0;">
@@ -35,7 +35,7 @@ The Atacama Large Millimeter/submillimeter Array (ALMA), the Very Large Array (V
 
 ---
 
-## 3. Roles of Magnetic Field of mass accretion onto the Super Massive Black Hole (Sgr A*) at the heart of our Milkyway Galaxy
+## 3. Roles of Magnetic Field in mass accretion onto the Super Massive Black Hole (Sgr A*) at the heart of our Milkyway Galaxy
 Using JCMT SCUBA-2/POL-2 submillimeter polarization technique, we measured the 3D magnetic field strengths of the Circumnuclear Disk (CND) of surrounding Sgr A* by comparing with a self-similar accregion disk model.
 
 <div style="text-align: center; margin: 20px 0;">
