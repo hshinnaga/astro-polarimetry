@@ -51,5 +51,10 @@ My latest publications can be found on my **researchmap** profile:
 * [鹿児島大学 交通アクセス](https://www.kagoshima-u.ac.jp/about/access.html)
 * [天の川銀河センター アクセスマップ](https://sites.google.com/view/milkywayworkshop2025/venue)
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./assets/images/ic1396.jpg" alt="Universe" style="width: 80%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-size: 0.8em; color: #666;">（An HII Region that forms massive stars along with intermediate- and low-mass stars.）</p>
+</div>
+
 ### Access Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3399.3531811795474!2d130.5428342!3d31.5693614!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x353e6730957d681f%3A0x34d9107d8d6e7a2b!2z6bm_5YWQ5bO25aSn5a2m55CG5a2m6YOo!5e0!3m2!1sja!2sjp!4v1676944308881!5m2!1sja!2sjp" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
