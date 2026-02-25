@@ -72,6 +72,21 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 * **税制上の優遇措置:** 国立大学法人への寄附は、所得税や法人税の控除対象となります。詳細は大学の[寄附金案内ページ](https://www.kagoshima-u.ac.jp/about/zeisei.html)をご確認ください。
 
 ---
+<div style="text-align: center; margin-top: 50px; padding: 30px; border-top: 1px dashed #ddd;">
+  <p style="font-size: 1.1em; color: #444; font-style: italic;">
+    "皆様の温かいご支援が、宇宙の謎を解き明かす学生たちの大きな力となります。<br>
+    心より感謝申し上げます。"
+  </p>
+  
+  <div style="font-size: 20px; color: #FFD700; margin-top: 15px;">
+    <span>★</span>
+    <span style="margin: 0 15px; opacity: 0.5;">✨</span>
+    <span>★</span>
+    <span style="margin: 0 15px; opacity: 0.5;">✨</span>
+    <span>★</span>
+  </div>
+</div>
 
+<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(3,102,216,0.75), rgba(0,0,0,0)); margin: 40px 0;">
 
 [👈 Back to Home](index.html)
