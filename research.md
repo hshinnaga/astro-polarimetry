@@ -18,18 +18,20 @@ Stars are born in dense molecular clouds, and magnetic fields play a crucial rol
   <img src="./assets/images/20230208_L1521F.jpg" alt="Magnetic Field Simulation" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 1: Visualization of magnetic field structure in a massive star-forming region.</em></p>
 </div>
-*Figure 1: Visualization of magnetic field structure in a massive star-forming region.*
+*Figure 1: Visualization of magnetic field structure in a massive star-forming region. (Fukaya, Shinnaga et al. 2023) *
 
 * **Key Finding:** Our observations revealed that magnetic fields are surprisingly well-ordered even in turbulent environments.
 * **Telescopes Used:** ALMA, JCMT (POL-2).
 
 ---
 
-## 2. Magnetic Field in Evolved Stars and their Circumstellar Medium High-Resolution Observations with ALMA, VLA, VERA
+## 2. Magnetic Field in Evolved Stars and their Circumstellar Medium -- High-Resolution Observations with ALMA, VLA, VERA
 The Atacama Large Millimeter/submillimeter Array (ALMA) allows us to zoom in on the very heart of stars that are just before supernova explosions.
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://via.placeholder.com/250x250.png?text=ALMA+Disk" width="250" />
+<div style="text-align: center; margin: 20px 0;">
+  <img src="./assets/images/2025Autumn_hyousi_VYCMa.tiff" alt="Magnetic Field Simulation" style="width: 50%; max-width: 500px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 2: Dying massive star with prominent mass loss activities traced using various  molecular Maser lines. (Shinnaga et al. 2025) </em></p>
+</div>
   <div>
     <strong>Dynamics of Protostellar Disks</strong><br>
     We study the gas dynamics and dust distribution around young stars to understand how planetary systems (like our Solar System) are formed.
