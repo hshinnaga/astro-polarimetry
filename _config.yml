@@ -14,5 +14,6 @@ description: |
 
 logo: "/avatar.png"
 show_downloads: false
+astro_bg: "/20251115_scienceclub.jpg"
 # _config.yml の一番下などに追記
-copyright: "© 鹿児島大学学術研究院理工学研究科理学系　新永浩子　2026 Hiroko Shinnaga"
+copyright: "© 鹿児島大学学術研究院理工学研究科理学系　新永浩子 Hiroko Shinnaga All Rights Reserved"　
