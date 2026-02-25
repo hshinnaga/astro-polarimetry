@@ -1,38 +1,61 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "ja" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>">
+    
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
+    <style>
+      /* スマホで左に寄る問題を解決する追加設定 */
+      .wrapper {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+      section {
+        width: 100% !important;
+        float: none !important;
+      }
+      header {
+        width: 100% !important;
+        float: none !important;
+        position: relative !important;
+      }
+      /* スマホでナビゲーションがHomeに戻るのを防ぐための調整 */
+      nav ul {
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      nav li { margin: 0; }
+    </style>
+    
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
-        {% endif %}
-
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: "Hiroko Shinnaga" }}</a></h1>
+        
+        <nav>
+          {% include nav.html %}
+        </nav>
 
         {% if site.description %}
           <p>{{ site.description }}</p>
         {% endif %}
-
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
       </header>
 
       <section>
-        {% include nav.html %}
-
         {{ content }}
       </section>
 
