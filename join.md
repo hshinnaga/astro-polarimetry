@@ -30,7 +30,7 @@ If you are interested in joining our group, please contact me at:
 
 ## Media Coverages
 [鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん記者会見（Webページ）](https://grad.eng.kagoshima-u.ac.jp/info/20230214topic/)<br>
-[鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん(記者会見の様子)](https://www.youtube.com/watch?v=T2eFWrIJ4nk))
+[鹿児島大学理工学研究科理学系修士課程2年深谷紗希子さん(記者会見の様子)](https://www.youtube.com/watch?v=T2eFWrIJ4nk)
 
 [【研究成果】巨大星の最期・超新星爆発直前にとらえた強力な磁場(記者会見Webページ)](https://www.kagoshima-u.ac.jp/topics/2018/04/post-1377.html)
 
