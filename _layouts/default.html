@@ -11,65 +11,73 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
     <style>
-      /* --- 全体レイアウトの強制リセット --- */
-      .wrapper {
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 20px;
+      /* --- デスクトップ（PC）用のスタイル --- */
+      @media screen and (min-width: 641px) {
+        .wrapper {
+          width: 900px;
+          margin: 0 auto;
+        }
+        header {
+          width: 240px;
+          float: left;
+          position: fixed; /* 左側に固定 */
+        }
+        section {
+          width: 600px;
+          float: right;
+        }
+        nav ul {
+          list-style: none;
+          padding: 0;
+          margin: 20px 0;
+        }
+        nav li {
+          margin-bottom: 12px;
+          font-weight: bold;
+        }
+        /* 写真を正円にする設定 */
+        .profile-img {
+          width: 180px;      /* 横幅 */
+          height: 180px;     /* 縦幅を横と同じにする */
+          object-fit: cover; /* これで楕円にならずに切り抜かれます */
+          border-radius: 50%;/* 正円にする */
+          margin-bottom: 20px;
+          display: block;
+        }
       }
 
-      /* パソコンでもサイドバーにせず、すべて上に配置する設定 */
-      header {
-        width: 100% !important;
-        float: none !important;
-        position: relative !important;
-        border-bottom: 1px solid #eee;
-        margin-bottom: 30px;
-        padding-bottom: 10px;
-      }
-
-      section {
-        width: 100% !important;
-        float: none !important;
-        margin: 0 !important;
-      }
-
-      /* ナビゲーションを横並びの「タブ」にする */
-      nav ul {
-        display: flex;
-        flex-wrap: wrap;
-        list-style: none;
-        padding: 0;
-        margin: 20px 0 10px 0;
-        gap: 20px; /* タブ同士の間隔 */
-      }
-
-      nav li {
-        margin: 0;
-        font-weight: bold;
-      }
-
-      nav a {
-        text-decoration: none;
-        color: #1270b0; /* リンクの色（お好みで調整してください） */
-      }
-
-      nav a:hover {
-        text-decoration: underline;
-      }
-
-      footer {
-        width: 100% !important;
-        float: none !important;
-        margin-top: 50px;
-        border-top: 1px solid #eee;
-      }
-
-      /* スマホ用の微調整 */
+      /* --- モバイル（スマホ）用のスタイル --- */
       @media screen and (max-width: 640px) {
-        .wrapper { padding: 15px; }
-        nav ul { gap: 10px; }
-        nav li { font-size: 0.9em; }
+        header {
+          width: 100% !important;
+          float: none !important;
+          text-align: center;
+          border-bottom: 1px solid #eee;
+          padding-bottom: 20px;
+        }
+        section {
+          width: 100% !important;
+          float: none !important;
+          padding: 20px 0;
+        }
+        nav ul {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 15px;
+          list-style: none;
+          padding: 0;
+          margin: 15px 0;
+        }
+        /* スマホでも正円を維持 */
+        .profile-img {
+          width: 120px;
+          height: 120px;
+          object-fit: cover;
+          border-radius: 50%;
+          margin: 0 auto 15px;
+          display: block;
+        }
       }
     </style>
     
@@ -78,14 +86,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <a href="{{ "/" | relative_url }}">
+          <img src="{{ "/avatar.png" | relative_url }}" alt="Profile" class="profile-img">
+        </a>
+
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: "Hiroko Shinnaga" }}</a></h1>
 
         <nav>
           {% include nav.html %}
         </nav>
 
         {% if site.description %}
-          <p style="margin-top: 10px; color: #666;">{{ site.description }}</p>
+          <p>{{ site.description }}</p>
         {% endif %}
       </header>
 
