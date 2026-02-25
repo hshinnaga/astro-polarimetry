@@ -7,7 +7,7 @@ title: Join the Group
 
 # Join Our Research Group
 
-I am always looking for motivated graduate students who are interested in radio astronomy, astronomical polarimetry, and the researches of the Milky Way.
+I am always looking for motivated graduate students who are interested in pursueing radio astronomy, astronomical polarimetry, and the researches of the Milky Way Galaxy.
 
 ## For Prospective Students
 Kagoshima University provides an interactive environment for astronomical research. If you are interested in joining my group, please consider the following:
