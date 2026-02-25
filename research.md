@@ -22,7 +22,7 @@ Stars are born in dense molecular clouds, and magnetic fields play a crucial rol
 
 ---
 
-## 2. High-Resolution Observations with ALMA, VLA, VERA
+## 2. Magnetic Field in Evolved Stars and their Circumstellar Medium High-Resolution Observations with ALMA, VLA, VERA
 The Atacama Large Millimeter/submillimeter Array (ALMA) allows us to zoom in on the very heart of stars that are just before supernova explosions.
 
 <div style="display: flex; gap: 20px; align-items: center;">
