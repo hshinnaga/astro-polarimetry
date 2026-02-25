@@ -2,7 +2,8 @@
 layout: default
 title: Join the Group
 ---
---
+
+---
 
 # Join Our Research Group
 
