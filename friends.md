@@ -49,23 +49,45 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 
 # Support Our Research and Activities (寄附金のお願い)
 
-鹿児島大学理学部 物理・宇宙プログラム（新永研究室）では、天文学の発展や次世代を担う学生の育成、地域への社会貢献活動を推進するため、学外の皆様からの寄附金を受け付けております。
+Your generous support fuels our exploration of the universe and inspires the next generation of scientists.
+鹿児島大学理学部 物理・宇宙プログラム（新永研究室）では、天文学の発展、次世代を担う若手研究者の育成、および地域社会へのアウトリーチ活動を推進するため、皆様からの温かいご支援をお願いしております。
 
-いただいた寄附金は、学生の研究発表の旅費、観測・研究設備の充実、ならびに「Friends of Astronomy」等の観望会活動の運営のために、大切に活用させていただきます。
+🌟 How Your Contribution Makes a Difference
 
-### 寄附の手続き方法
+いただいた寄附金は、以下のような活動に大切に活用させていただきます。<br>
+- 学生の国際学会発表や研究旅費のサポート Empowering Students: Funding for students to present research at international conferences.
+- 最新の観測・研究設備の充実 Advancing Research: Maintenance and enhancement of radio astronomy observation equipment.<br>
+- 観望会や市民講座など、地域社会への還元活動 Community Engagement: Operation of "Friends of Astronomy" and public stargazing events.<br>
+
+### 寄附の手続き方法　How to Donate (Tax-Deductible):<br>
 鹿児島大学の規定により、以下の手順での受付となります。
 
-1.  **詳細の確認**
+1.  **詳細の確認 Information on Donations**
    * [👉 寄附金に関するご案内（大学公式サイトへリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
 2.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式等）をダウンロードし、必要事項をご記入ください。<br>
-   <a href="assets/images/202203kifu_KagoshimaUniv_Shinnaga.docx" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px;">📥 寄附金申込書をダウンロード</a><nr>
-3. **書類の提出:** ご記入いただいた書類を、下記のお問い合わせ先（または大学事務局）へ郵送またはメールにてお送りください。<br>
-   理学部　理工学研究科（理学系）　理工学研究科等事務部　理学系事務課会計係　電話：099-285-8020　scikaik[at] <br>
-　（※メールアドレスは、[at]を「@kuas.kagoshima-u.ac.jp」に変換してください。）<br>
-4.  **お振り込み:** 大学より発行される振込依頼書に基づき、金融機関にてお手続きをお願いいたします。
+研究室に関する必要事項（寄附目的、名称、受入先など）はあらかじめ記入済みです。 <br>
+ご記入いただく箇所 / Fields to fill in:<br>
+寄附者情報: お名前・ご住所 Your name and address <br>
+ item １ 寄附金額: ご希望の金額  The amount of your donation <br>
+ item ７ 確認事項: 各項目へのチェック（○の記入）Check items only when necessary <br>
+ Download and fill out the donation form below.   <br>
+<div style="margin: 20px 0;">
+<a href="assets/images/202203kifu_KagoshimaUniv_Shinnaga.docx" style="display: inline-block; padding: 12px 25px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">📥 寄附金申込書をダウンロード / Download Form (Word)</a>
+</div>
 
-### お問い合わせ先
+3. **書類の提出:**  ご記入いただいた書類を、下記担当窓口へ郵送またはメールにてお送りください。<br>
+ Mail/Email to:<br>
+ 理学部 理工学研究科等事務部 理学系事務課会計係 <br>
+ Email: scikaik [at] kuas.kagoshima-u.ac.jp <br>
+ Tel: 099-285-8020 <br>
+
+4.  **お振り込み:** 大学より発行される振込依頼書に基づき、金融機関にてお手続きをお願いいたします。<br>
+   Payment (Bank Transfer Only)<br>
+ 書類の受理後、大学より「振込依頼書」が郵送されます。そちらをお持ちの上、金融機関にてお手続きをお願いいたします。<br>
+After your application is accepted, the university will mail you a "Payment Notice (Bank Transfer Request)." Please take this document to your local financial institution to complete the payment.
+If you have any questions regarding international donations, please feel free to contact us.
+
+### お問い合わせ先 / Contact 
 寄附に関するご質問や、具体的な活用方法についてのご相談は、お気軽に下記までご連絡ください。
 
 * **Email:** shinnaga [at] sci.kagoshima-u.ac.jp ([at]を＠に置き換えてください。)
@@ -77,6 +99,7 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
     "皆様の温かいご支援が、宇宙の謎を解き明かす学生たちの大きな力となります。<br>
     心より感謝申し上げます。"
   </p>
+  <p style="text-align: center; color: #666; font-style: italic;">Every gift, regardless of size, makes a difference in our journey to understand the cosmos. Thank you very much.</p>
   
   <div style="font-size: 20px; color: #FFD700; margin-top: 15px;">
     <span>★</span>
