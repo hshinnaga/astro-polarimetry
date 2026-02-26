@@ -17,7 +17,7 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 大学の望遠鏡を使って、季節の星座や惑星、遠くの星雲を一緒に眺めてみませんか？
 
 * **対象:** 天文学に興味のある方ならどなたでも！
-* **内容:** 学生による星空解説、大型望遠鏡での観測体験
+* **内容:** 学生による星空解説、75cm望遠鏡での観測体験
 * **詳細:** 開催日時が決まり次第、このページでお知らせします。
 
 ---
@@ -47,7 +47,7 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 
 ---
 
-# Support Our Research and Activities (寄附金のお願い)
+# 寄附金のお願い Support Our Research and Activities 
 
 鹿児島大学理学部 物理・宇宙プログラム（新永研究室）では、天文学の発展、次世代を担う若手研究者の育成、および地域社会へのアウトリーチ活動を推進するため、皆様からの温かいご支援をお願いしております。
 
@@ -65,7 +65,7 @@ Your generous support fuels our exploration of the universe and inspires the nex
 
 1.  **詳細の確認 Information on Donations**
    * [👉 寄附金に関するご案内（大学公式サイトへリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
-2.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式等）をダウンロードし、必要事項をご記入ください。<br>
+2.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式）をダウンロードし、必要事項をご記入ください。<br>
 研究室に関する必要事項（寄附目的、名称、受入先など）はあらかじめ記入済みです。 <br>
 ご記入いただく箇所 / Fields to fill in:<br>
 寄附者情報: お名前・ご住所 Your name and address <br>
