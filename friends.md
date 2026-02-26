@@ -17,14 +17,14 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 大学の望遠鏡を使って、季節の星座や惑星、遠くの星雲を一緒に眺めてみませんか？
 
 * **対象:** 天文学に興味のある方ならどなたでも！
-* **内容:** 学生による星空解説、75cm望遠鏡での観測体験
+* **内容:** 学生による星空解説、75cm望遠鏡、eVScopeでの観測体験
 * **詳細:** 開催日時が決まり次第、このページでお知らせします。
 
 ---
 
 ## 🖼️ Gallery & Past Events
 
-### Open Campus Poster (October 2025)
+### Open Campus Poster (November 2025)
 昨年11月のオープンキャンパスで、私たちの活動を紹介するために作成したポスターです。
 
 <div style="text-align: center; margin: 20px 0;">
@@ -32,7 +32,9 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>2025年オープンキャンパスで使用したオリジナルポスター(三浦さん作)</em></p>
 </div>
 
-昨年のオープンキャンパスでは、多くの方にブースへお越しいただき、宇宙の広がりについて語り合うことができました。この熱意を、今後の観望会へとつなげていきます。
+昨年のオープンキャンパス（2025年11月15日）では、高校生、家族連れを含む、多くの方々にブースへお越しいただき、宇宙の広がりについて語り合うことができました。この熱意を、今後の観望会へとつなげていきます。<br>
+
+At last year's Open Campus (November 15th 2025), we were delighted to welcome many visitors, including high school students and families, to our booth, where we had inspiring discussions about the vastness of the universe. We are eager to carry this enthusiasm forward into our upcoming stargazing events
 
 ---
 
@@ -63,7 +65,7 @@ Your generous support fuels our exploration of the universe and inspires the nex
 ### 寄附の手続き方法　How to Donate (Tax-Deductible):<br>
 鹿児島大学の規定により、以下の手順での受付となります。
 
-1.  **詳細の確認 Information on Donations**
+1.  **詳細の確認 Information on Donation**
    * [👉 寄附金に関するご案内（大学公式サイトへリンク）](https://www.kagoshima-u.ac.jp/kifukin/cat1356/post-51.html)<br>
 2.  **寄附金申込書の作成:** 以下のリンクより申込書（Microsoft Word形式）をダウンロードし、必要事項をご記入ください。<br>
 研究室に関する必要事項（寄附目的、名称、受入先など）はあらかじめ記入済みです。 <br>
@@ -92,7 +94,7 @@ If you have any questions regarding international donations, please feel free to
 寄附に関するご質問や、具体的な活用方法についてのご相談は、お気軽に下記までご連絡ください。
 
 * **Email:** shinnaga [at] sci.kagoshima-u.ac.jp ([at]を＠に置き換えてください。)
-* **税制上の優遇措置:** 国立大学法人への寄附は、所得税や法人税の控除対象となります。詳細は大学の[寄附金案内ページ](https://www.kagoshima-u.ac.jp/about/zeisei.html)をご確認ください。
+* **税制上の優遇措置:** 国立大学法人への寄附は、所得税や法人税の控除対象となります。詳細は大学の[寄附金案内ページ Donation Guidelines](https://www.kagoshima-u.ac.jp/about/zeisei.html)をご確認ください。
 
 ---
 <div style="text-align: center; margin-top: 50px; padding: 30px; border-top: 1px dashed #ddd;">
