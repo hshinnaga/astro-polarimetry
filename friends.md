@@ -49,8 +49,9 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 
 # Support Our Research and Activities (寄附金のお願い)
 
-Your generous support fuels our exploration of the universe and inspires the next generation of scientists.
 鹿児島大学理学部 物理・宇宙プログラム（新永研究室）では、天文学の発展、次世代を担う若手研究者の育成、および地域社会へのアウトリーチ活動を推進するため、皆様からの温かいご支援をお願いしております。
+
+Your generous support fuels our exploration of the universe and inspires the next generation of scientists.
 
 🌟 How Your Contribution Makes a Difference
 
