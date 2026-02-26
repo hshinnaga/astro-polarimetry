@@ -15,6 +15,7 @@ I am an associate professor of the Astrophysics Group of Kagoshima University, l
 
 Before joining the Astrophysics Group of Kagoshima University, I worked at the East Asian ALMA Regional Center (EA ARC), Nobeyama Radio Observatory, the Subaru Telescope, and at California Institute of Technology Submillimeter Observatory as a staff research scientist. I was also an affiliated faculty of University of Hawaii at Hilo.  The ALMA antennas are located at Atacama Desert in Chile.
 
+鹿児島大学着任前は、東アジアALMA地域センター、野辺山電波観測所、すばる望遠鏡、カリフォルニア工科大学サブミリ波天文台ではスタッフサイエンティストとして働いていました。ハワイ大学ヒロ校では兼任教員として天体物理学を教えていました。
 
 ---
 
@@ -35,7 +36,7 @@ Before joining the Astrophysics Group of Kagoshima University, I worked at the E
 
 ---
 
-# Publications
+# Publications　出版
 
 My latest publications can be found on my **researchmap** profile:
 
