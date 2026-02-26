@@ -14,10 +14,10 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 
 ## 🌌 Upcoming Activities: Star Gazing Party
 私たちは今後、学生が企画・運営する**「星空観望会」**を定期的に開催していく予定です。
-大学の望遠鏡を使って、季節の星座や惑星、遠くの星雲を一緒に眺めてみませんか？
+大学の望遠鏡を使って、季節の星座や惑星、遠くの星雲、銀河を一緒に眺めてみませんか？
 
-* **対象:** 天文学に興味のある方ならどなたでも！
-* **内容:** 学生による星空解説、75cm望遠鏡、eVScopeでの観測体験
+* **対象:** 宇宙、天文学に興味のある方ならどなたでも！
+* **内容:** 学生による星空解説、75cm望遠鏡、その他望遠鏡（eVscope）での観測体験
 * **詳細:** 開催日時が決まり次第、このページでお知らせします。
 
 ---
@@ -29,7 +29,7 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="./assets/images/20251115_scienceclub.jpg" alt="Open Campus Poster" style="width: 80%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>2025年オープンキャンパスで使用したオリジナルポスター(三浦さん作)</em></p>
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>2025年オープンキャンパスで使用したオリジナルポスター(三浦さん作)。理学部１号館屋上のドーム内から撮影。</em></p>
 </div>
 
 昨年のオープンキャンパス（2025年11月15日）では、高校生、家族連れを含む、多くの方々にブースへお越しいただき、宇宙の広がりについて語り合うことができました。この熱意を、今後の観望会へとつなげていきます。<br>
@@ -40,7 +40,7 @@ At last year's Open Campus (November 15th 2025), we were delighted to welcome ma
 
 ## 🌟 Student Members Wanted!
 一緒に活動してくれる学生メンバーも募集中です。
-* 天文が好き
+* 天文、宇宙が好き
 * 人に教えるのが好き
 * イベント運営に興味がある
 興味のある学生さんは、[Join the Group](join.html) ページから、または研究室までお気軽にご連絡ください！
@@ -58,8 +58,8 @@ Your generous support fuels our exploration of the universe and inspires the nex
 🌟 How Your Contribution Makes a Difference
 
 いただいた寄附金は、以下のような活動に大切に活用させていただきます。<br>
-- 学生の国際学会発表や研究旅費のサポート Empowering Students: Funding for students to present research at international conferences.
-- 最新の観測・研究設備の充実 Advancing Research: Maintenance and enhancement of radio astronomy observation equipment.<br>
+- 学生の学会発表や研究旅費のサポート Empowering Students: Funding for students to present research at domestic/international conferences.
+- 最新の観測・研究設備の充実 Advancing Research: Maintenance and enhancement of astronomy observation equipment.<br>
 - 観望会や市民講座など、地域社会への還元活動 Community Engagement: Operation of "Friends of Astronomy" and public stargazing events.<br>
 
 ### 寄附の手続き方法　How to Donate (Tax-Deductible):<br>
