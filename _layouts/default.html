@@ -10,76 +10,93 @@
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     
-    <style>
-      /* --- デスクトップ（PC）用のスタイル --- */
-      @media screen and (min-width: 641px) {
-        .wrapper {
-          width: 900px;
-          margin: 0 auto;
-        }
-        header {
-          width: 240px;
-          float: left;
-          position: fixed; /* 左側に固定 */
-        }
-        section {
-          width: 600px;
-          float: right;
-        }
-        nav ul {
-          list-style: none;
-          padding: 0;
-          margin: 20px 0;
-        }
-        nav li {
-          margin-bottom: 12px;
-          font-weight: bold;
-        }
-        /* 写真を正円にする設定 */
-        .profile-img {
-          width: 180px;      /* 横幅 */
-          height: 180px;     /* 縦幅を横と同じにする */
-          object-fit: cover; /* これで楕円にならずに切り抜かれます */
-          border-radius: 50%;/* 正円にする */
-          margin-bottom: 20px;
-          display: block;
-        }
-      }
+  <style>
+/* --- デスクトップ（PC）用のスタイル --- */
+@media screen and (min-width: 641px) {
+.wrapper {
+width: 900px;
+margin: 0 auto;
+}
+header {
+width: 240px;
+float: left;
+position: fixed;
+height: 100vh;
+overflow-y: auto;
+padding-bottom: 50px;
+}
+section {
+width: 600px;
+float: right;
+padding-top: 20px;
+}
+nav ul {
+list-style: none;
+padding: 0;
+margin: 20px 0;
+}
+nav li {
+margin-bottom: 12px;
+font-weight: bold;
+font-size: 1.1em;
+}
+.profile-img {
+width: 180px;
+height: 180px;
+object-fit: cover;
+border-radius: 50%;
+margin-bottom: 20px;
+display: block;
+}
+}
 
-      /* --- モバイル（スマホ）用のスタイル --- */
-      @media screen and (max-width: 640px) {
-        header {
-          width: 100% !important;
-          float: none !important;
-          text-align: center;
-          border-bottom: 1px solid #eee;
-          padding-bottom: 20px;
-        }
-        section {
-          width: 100% !important;
-          float: none !important;
-          padding: 20px 0;
-        }
-        nav ul {
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: center;
-          gap: 15px;
-          list-style: none;
-          padding: 0;
-          margin: 15px 0;
-        }
-        /* スマホでも正円を維持 */
-        .profile-img {
-          width: 120px;
-          height: 120px;
-          object-fit: cover;
-          border-radius: 50%;
-          margin: 0 auto 15px;
-          display: block;
-        }
-      }
-    </style>
+/* --- モバイル（スマホ）用のスタイル --- */
+@media screen and (max-width: 640px) {
+header {
+width: 100% !important;
+float: none !important;
+text-align: center;
+border-bottom: 1px solid #eee;
+padding-bottom: 25px;
+}
+section {
+width: 100% !important;
+float: none !important;
+padding: 20px 0;
+}
+nav ul {
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 12px;
+list-style: none;
+padding: 0;
+margin: 20px 0;
+}
+nav li {
+width: 80%;
+background: #f8f9fa;
+border: 1px solid #ddd;
+border-radius: 8px;
+padding: 12px 0;
+font-size: 1.2em;
+font-weight: bold;
+}
+nav li a {
+display: block;
+text-decoration: none;
+color: #333;
+}
+.profile-img {
+width: 130px;
+height: 130px;
+object-fit: cover;
+border-radius: 50%;
+margin: 0 auto 15px;
+display: block;
+}
+}
+</style>
     
     {% include head-custom.html %}
   </head>
