@@ -9,24 +9,92 @@
     
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
+  <style>
+/* --- デスクトップ（PC）用のスタイル --- */
+@media screen and (min-width: 641px) {
+.wrapper {
+width: 900px;
+margin: 0 auto;
+}
+header {
+width: 240px;
+float: left;
+position: fixed;
+height: 100vh;
+overflow-y: auto;
+padding-bottom: 50px;
+}
+section {
+width: 600px;
+float: right;
+padding-top: 20px;
+}
+nav ul {
+list-style: none;
+padding: 0;
+margin: 20px 0;
+}
+nav li {
+margin-bottom: 12px;
+font-weight: bold;
+font-size: 1.1em;
+}
+.profile-img {
+width: 180px;
+height: 180px;
+object-fit: cover;
+border-radius: 50%;
+margin-bottom: 20px;
+display: block;
+}
+}
 
-    <style>
-/* 共通設定：まずは基礎を整えます */
-.wrapper { max-width: 900px; margin: 0 auto; padding: 20px; }
-header { text-align: center; margin-bottom: 30px; }
-.profile-img { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin-bottom: 10px; }
-
-/* スマホのリンク修正：ここを大きくしてタップしやすくします */
-nav ul { padding: 0; list-style: none; }
-nav li { margin: 10px 0; }
-nav li a { font-size: 1.3em !important; font-weight: bold; padding: 15px; display: block; background: #f4f4f4; border-radius: 8px; text-decoration: none; color: #333; }
-
-/* PCのみ左右に並べる（画面が広い時だけ） /
-@media screen and (min-width: 769px) {
-.wrapper { display: flex; gap: 40px; align-items: flex-start; }
-/ 左側メニューを固定ではなく「吸着（sticky）」させることで、一番下まで見れるようにします */
-header { width: 250px; text-align: left; position: sticky; top: 20px; }
-section { flex: 1; }
+/* --- モバイル（スマホ）用のスタイル --- */
+@media screen and (max-width: 640px) {
+header {
+width: 100% !important;
+float: none !important;
+text-align: center;
+border-bottom: 1px solid #eee;
+padding-bottom: 25px;
+}
+section {
+width: 100% !important;
+float: none !important;
+padding: 20px 0;
+}
+nav ul {
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 12px;
+list-style: none;
+padding: 0;
+margin: 20px 0;
+}
+nav li {
+width: 80%;
+background: #f8f9fa;
+border: 1px solid #ddd;
+border-radius: 8px;
+padding: 12px 0;
+font-size: 1.2em;
+font-weight: bold;
+}
+nav li a {
+display: block;
+text-decoration: none;
+color: #333;
+}
+.profile-img {
+width: 130px;
+height: 130px;
+object-fit: cover;
+border-radius: 50%;
+margin: 0 auto 15px;
+display: block;
+}
 }
 </style>
     
@@ -61,3 +129,4 @@ section { flex: 1; }
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
+
