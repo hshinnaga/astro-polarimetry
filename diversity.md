@@ -32,7 +32,7 @@ We recently hosted/participated in an academic forum focused on future perspecti
   <iframe src="https://www.youtube.com/embed/ここにYouTubeの動画ID" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="（動画準備完了次第見られます）Academic Forum Video"></iframe>
 </div>
 <div style="text-align: center; margin-bottom: 20px;">
-<img src="assets/images/20260221_Forum_集合写真1.jpg" alt="集合写真" style="max-width: 400px; width: 40%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="assets/images/20260221_Forum_集合写真1.jpg" alt="集合写真" style="max-width: 400px; width: 60%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 <p style="font-size: 0.9em; color: #666; margin-top: 5px;">（学術フォーラムの様子）</p>
 </div>
 * **Official Website:** [Academic Forum 2026 Details](https://www.scj.go.jp/ja/event/2026/392-s-0221.html)
