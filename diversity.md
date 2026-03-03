@@ -29,7 +29,7 @@ We recently hosted/participated in an academic forum focused on future perspecti
 
 ### 🎥 Forum Video
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/watch?v=fi2Ze5pCIFI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="（動画準備完了次第見られます）Academic Forum Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/fi2Ze5pCIFI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="（動画準備完了次第見られます）Academic Forum Video"></iframe>
 </div>
 <div style="text-align: center; margin-bottom: 20px;">
 <img src="assets/images/20260221_Forum_集合写真1.jpg" alt="集合写真" style="max-width: 400px; width: 60%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
