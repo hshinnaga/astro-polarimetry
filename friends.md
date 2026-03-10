@@ -20,6 +20,15 @@ Friends of Astronomyは、鹿児島大学の学生が主体となって、一般
 * **内容:** 学生による星空解説、75cm望遠鏡、その他望遠鏡（eVscope）での観測体験
 * **詳細:** 開催日時が決まり次第、このページでお知らせします。
 
+## 🔭 一般観望会・学生の観測活動について（サイト移行のお知らせ）
+
+これまで本ページでご案内しておりました「一般観望会」「学生主体の望遠鏡を活用した活動」ならびに「Friends of Astronomy（天文学サポーター）」の取り組みは、学生が主体となって運営する新しい組織へと発展・移行いたしました。
+
+観望会へのご参加や、学生の観測活動・アウトリーチへのご支援につきましては、以下の新サイトをご覧ください。
+
+👉 **[Kagoshima University Student Observatory（鹿児島大学 Student Observatory）](https://kagoshima-univ-student-observatory.github.io/index.html)**
+
+
 ---
 
 ## 🖼️ Gallery & Past Events
@@ -58,9 +67,23 @@ Your generous support fuels our exploration of the universe and inspires the nex
 🌟 How Your Contribution Makes a Difference
 
 いただいた寄附金は、以下のような活動に大切に活用させていただきます。<br>
-- 学生の学会発表や研究旅費のサポート Empowering Students: Funding for students to present research at domestic/international conferences.
-- 最新の観測・研究設備の充実 Advancing Research: Maintenance and enhancement of astronomy observation equipment.<br>
-- 観望会や市民講座など、地域社会への還元活動 Community Engagement: Operation of "Friends of Astronomy" and public stargazing events.<br>
+
+**1. 若手研究者・学生の育成支援 / Empowering Students & Early-Career Researchers**
+- 学生が国内外の学会や研究会で成果発表を行うための渡航費・参加費の補助
+  *Funding for students to present their research at domestic and international conferences.*
+- 観測所（国立天文台など）での実習・観測に向けた派遣支援
+  *Travel support for observational training and research at professional observatories (e.g., National Astronomical Observatory of Japan).*
+
+**2. 研究環境・計算機環境の整備 / Enhancing Research & Computational Environments**
+- 大規模な天文データ解析を行うためのコンピューターやストレージの導入
+  *Acquisition of high-performance workstations and data storage systems for large-scale astronomical data analysis.*
+- 専門的なソフトウェアや解析ツールの整備
+  *Maintenance and upgrading of specialized software and analytical tools.*
+
+**3. 最先端の天文学研究の推進 / Advancing Cutting-Edge Astronomical Research**
+- 電波・光赤外線を用いた観測研究に必要な消耗品や資料の購入
+  *Purchase of essential supplies, equipment, and reference materials to drive forward observational research using radio, optical, and infrared wavelengths.*
+
 
 ### 寄附の手続き方法　How to Donate (Tax-Deductible):<br>
 鹿児島大学の規定により、以下の手順での受付となります。
