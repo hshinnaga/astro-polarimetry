@@ -110,6 +110,8 @@ If you are interested in joining our group, please contact me at:
 
 - 鹿児島大学 外国人留学生受入（国費留学生など）  
   [https://www.kagoshima-u.ac.jp/kokusai/post-5.html](https://www.kagoshima-u.ac.jp/kokusai/post-5.html)
+- 文部科学省 国費外国人留学生制度（MEXT Scholarship）  
+  [https://www.mext.go.jp/a_menu/koutou/ryugaku/06032818.htm](https://www.mext.go.jp/a_menu/koutou/ryugaku/06032818.htm)
 
 応募資格、募集時期、推薦方式、必要書類は年度や制度により異なるため、必ず最新の公式情報をご確認ください。研究テーマや受入れの可能性について相談したい方は、早めにご連絡ください。
 
