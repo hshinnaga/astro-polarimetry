@@ -43,6 +43,20 @@ Using JCMT SCUBA-2/POL-2 submillimeter polarization technique, we measured the 3
   <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Figure 3: Left: Magnetic field strengths measured in 3D in the Circumnuclear Disk (CND) based on a self-similar accretion disk model. Right: Measured polarization vectors towards the CND of our Milkyway Galaxy's SMBH Sgr A* (Sato, Shinnaga, Furuya et al. 2025) </em></p>
 </div>
 
+また、私たちの研究グループでは、独自の望遠鏡観測に加え、大型国際観測プロジェクトのアーカイブデータも積極的に活用しています。特に、オーストラリア・コンパクトアレイ（ATCA）を用いた銀河面サーベイプロジェクト **SWAG（Survey of the Galactic Plane）** のデータを活用した研究を進めています。
+
+*In addition to our own telescope observations, our research group actively utilizes archival data from major international observational projects. In particular, we make use of data from **SWAG (Survey of the Galactic Plane)**, a Galactic plane survey conducted with the Australia Telescope Compact Array (ATCA).*
+
+- SWAG（ATCA Survey of the Galactic Plane）  
+  [https://sites.google.com/site/atcaswag/swag-team](https://sites.google.com/site/atcaswag/swag-team)
+
+さらに、**ALMA（アタカマ大型ミリ波サブミリ波干渉計）**、**SOFIA（成層圏赤外線天文台）**、**JCMT（ジェームズ・クラーク・マクスウェル望遠鏡）**など、国内外の主要観測施設が公開するアーカイブデータも研究に取り入れています。これらの多波長データを組み合わせることで、電波からミリ波・サブミリ波・赤外線にわたる幅広い観測データを用いた研究に取り組むことができます。
+
+*We also incorporate archival data from other major observational facilities, including **ALMA (Atacama Large Millimeter/submillimeter Array)**, **SOFIA (Stratospheric Observatory for Infrared Astronomy)**, and **JCMT (James Clerk Maxwell Telescope)**. By combining these multi-wavelength datasets, our group is able to conduct research spanning radio, millimeter, submillimeter, and infrared observations.*
+
+私たちの研究グループに参加する学生・研究者は、自ら望遠鏡を用いた観測を行うだけでなく、こうした国際的なアーカイブデータを解析する研究にも携わることができます。
+
+*Students and researchers who join our group have the opportunity not only to conduct their own telescope observations, but also to work with these international archival datasets.*
 
 ---
 
