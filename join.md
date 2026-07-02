@@ -25,7 +25,7 @@ If you are interested in joining our group, please contact me at:
 
 ## For Postdocs and PhD Students / ポスドク・博士課程の方へ
 
-天文学・宇宙物理学の研究をさらに深めたい博士後期課程の学生、およびポスドク研究者の方の参加も歓迎します。以下のような外部・学内フェローシップ制度を活用しながら、本活動における研究・教育・アウトリーチに携わっていただくことも可能です。
+天文学・宇宙物理学の研究をさらに深く、究めたい博士後期課程の学生、およびポスドク研究者の方の参加も歓迎します。以下のような外部・学内フェローシップ制度を活用しながら、本活動における研究・教育・アウトリーチに携わっていただくことが可能です。
 
 *We also welcome PhD students and postdoctoral researchers who wish to deepen their research in astronomy and astrophysics. The following external and university fellowship programs may support your participation in our research, education, and outreach activities.*
 
